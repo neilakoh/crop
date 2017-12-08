@@ -1,0 +1,3 @@
+rootProject.name = 'crp1'
+
+include ':app'
